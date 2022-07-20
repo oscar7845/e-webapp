@@ -4,7 +4,7 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-![This is a GIF](https://ibb.co/qC9NWxC)
+![This is a GIF][https://i.ibb.co/68bH1N8/222-min.gif)]
 
 ![This is a GIF](https://ibb.co/0f32f9G)
 
