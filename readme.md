@@ -2,8 +2,7 @@ E-Commerce App
 -React Node.js with MongoDB
 -REDUX, Stripe, JWT
 
-![hippo](https://ibb.co/qC9NWxC)
-https://ibb.co/qC9NWxC
+![me](https://ibb.co/qC9NWxC)
 
 https://ibb.co/0f32f9G
 
