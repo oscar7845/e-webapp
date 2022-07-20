@@ -2,7 +2,6 @@
 - React Node.js with MongoDB
 - REDUX, Stripe, JWT
 
-This site was built using [GitHub Pages](https://pages.github.com/)
 
 ![This is a GIF][https://i.ibb.co/68bH1N8/222-min.gif)]
 
